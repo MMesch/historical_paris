@@ -516,8 +516,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="924.5476"
-     inkscape:cy="618.57685"
+     inkscape:cx="658.83331"
+     inkscape:cy="615.71971"
      inkscape:document-units="mm"
      inkscape:current-layer="Roman"
      showgrid="false"
@@ -552,13 +552,13 @@
     <image
        sodipodi:absref="/home/meschede/meschede/projects/paris_map/paris_map_small.png"
        xlink:href="paris_map_small.png"
-       style="display:inline"
-       width="840.74011"
-       height="593.72498"
-       preserveAspectRatio="none"
-       id="image23042"
+       y="-51.926319"
        x="-210.3551"
-       y="-51.926319" />
+       id="image23042"
+       preserveAspectRatio="none"
+       height="593.72498"
+       width="840.74011"
+       style="display:inline" />
     <g
        transform="translate(-308.42323,-11.39902)"
        style="display:inline"
@@ -568,7 +568,7 @@
      inkscape:groupmode="layer"
      id="Roman"
      inkscape:label="Roman"
-     style="display:inline"
+     style="display:none"
      transform="translate(210.3551,51.926323)">
     <g
        id="g5991">
