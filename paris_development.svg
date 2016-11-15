@@ -18,16 +18,16 @@
    inkscape:version="0.91 r13725"
    onmousemove="mouseMove(evt)"
    sodipodi:docname="paris_development.svg">
- 
   <defs
      id="defs4">
-    <style type="text/css">
-      @import url('https://fonts.googleapis.com/css?family=Roboto');
+    <style
+       type="text/css"
+       id="style4">
+      @import url('https://fonts.googleapis.com/css?family=Ubuntu');
       text {
-        font-family: "Roboto";
+        font-family: &quot;Ubuntu&quot;, sans-serif;
       }
     </style>
-
     <linearGradient
        inkscape:collect="always"
        id="linearGradient8955">
@@ -523,9 +523,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="658.83331"
-     inkscape:cy="615.71971"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="1773.8425"
+     inkscape:cy="914.0773"
      inkscape:document-units="mm"
      inkscape:current-layer="Roman"
      showgrid="false"
@@ -560,13 +560,13 @@
     <image
        sodipodi:absref="/home/meschede/meschede/projects/paris_map/paris_map_small.png"
        xlink:href="paris_map_small.png"
-       y="-51.926319"
-       x="-210.3551"
-       id="image23042"
-       preserveAspectRatio="none"
-       height="593.72498"
+       style="display:inline"
        width="840.74011"
-       style="display:inline" />
+       height="593.72498"
+       preserveAspectRatio="none"
+       id="image23042"
+       x="-210.3551"
+       y="-51.926319" />
     <g
        transform="translate(-308.42323,-11.39902)"
        style="display:inline"
@@ -576,7 +576,7 @@
      inkscape:groupmode="layer"
      id="Roman"
      inkscape:label="Roman"
-     style="display:none"
+     style="display:inline"
      transform="translate(210.3551,51.926323)">
     <g
        id="g5991">
@@ -772,7 +772,7 @@
              y="328.70718" />
           <text
              xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#a5a5ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a5a5ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="280.45834"
              y="336.4985"
              id="text4366-60"
@@ -790,13 +790,13 @@
           <rect
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="rect4370-0-1"
-             width="112.25257"
+             width="96.287674"
              height="9.0714283"
              x="279.21078"
              y="328.70718" />
           <text
              xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#a5a5ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a5a5ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="280.45834"
              y="336.4985"
              id="text4366-60-0"
@@ -815,7 +815,7 @@
              y="328.70718"
              x="279.21078"
              height="9.0714283"
-             width="107.0491"
+             width="92.794731"
              id="rect4370-0-7"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -823,7 +823,7 @@
              id="text4366-60-7"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#a5a5ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a5a5ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="fill:#a5a5ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
                y="336.4985"
@@ -839,7 +839,7 @@
              y="328.70718"
              x="279.21078"
              height="9.0714283"
-             width="123.64227"
+             width="109.95808"
              id="rect4370-0-1-2"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -847,7 +847,7 @@
              id="text4366-60-0-8"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#a5a5ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a5a5ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="fill:#a5a5ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
                y="336.4985"
@@ -863,7 +863,7 @@
              y="328.70718"
              x="279.21078"
              height="9.0714283"
-             width="102.85358"
+             width="87.458855"
              id="rect4370-0-1-2-5"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -871,7 +871,7 @@
              id="text4366-60-0-8-2"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#a5a5ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a5a5ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="fill:#a5a5ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
                y="336.4985"
@@ -887,7 +887,7 @@
              y="328.70718"
              x="279.21078"
              height="9.0714283"
-             width="80.162453"
+             width="71.03965"
              id="rect4370-7"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -895,7 +895,7 @@
              id="text4366-7"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="fill:#ff0000;stroke-width:0.26458332px"
                y="336.4985"
@@ -911,7 +911,7 @@
              y="328.70718"
              x="279.21078"
              height="9.0714283"
-             width="69.702026"
+             width="61.719578"
              id="rect4370-7-5-5"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -919,7 +919,7 @@
              id="text4366-7-9-5"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="fill:#ff0000;stroke-width:0.26458332px"
                y="336.4985"
@@ -935,7 +935,7 @@
              y="328.70718"
              x="279.21078"
              height="9.0714283"
-             width="69.915192"
+             width="63.073093"
              id="rect4370-7-5-5-6-2"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -943,7 +943,7 @@
              id="text4366-7-9-5-4-2"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="fill:#ff0000;stroke-width:0.26458332px"
                y="336.4985"
@@ -958,13 +958,13 @@
           <rect
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="rect4370-2-3-6"
-             width="67.971176"
+             width="59.988728"
              height="9.5633707"
              x="279.21078"
              y="328.70718" />
           <text
              xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="280.45834"
              y="336.4985"
              id="text4366-6-2-0"
@@ -983,7 +983,7 @@
              y="328.70718"
              x="279.21078"
              height="9.0714283"
-             width="35.33139"
+             width="31.340166"
              id="rect4370-7-5"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -991,7 +991,7 @@
              id="text4366-7-9"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="fill:#ff0000;stroke-width:0.26458332px"
                y="336.4985"
@@ -1007,7 +1007,7 @@
              y="328.70718"
              x="279.21082"
              height="9.0714283"
-             width="57.534489"
+             width="50.122215"
              id="rect4370-7-5-5-6-2-2-0"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -1015,7 +1015,7 @@
              id="text4366-7-9-5-4-2-8-4"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="fill:#ff0000;stroke-width:0.26458332px"
                y="336.4985"
@@ -1031,7 +1031,7 @@
              y="328.70718"
              x="279.21078"
              height="9.0714283"
-             width="69.945068"
+             width="63.673145"
              id="rect4370-7-5-5-6"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -1039,7 +1039,7 @@
              id="text4366-7-9-5-4"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="fill:#ff0000;stroke-width:0.26458332px"
                y="336.4985"
@@ -1055,7 +1055,7 @@
              y="328.70718"
              x="279.21078"
              height="9.0714283"
-             width="24.34322"
+             width="19.78182"
              id="rect4370-7-2"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -1063,7 +1063,7 @@
              id="text4366-7-98"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="fill:#ff0000;stroke-width:0.26458332px"
                y="336.4985"
@@ -1079,7 +1079,7 @@
              y="328.70718"
              x="279.21078"
              height="9.0714283"
-             width="31.983713"
+             width="28.562664"
              id="rect4370-7-2-1"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -1087,7 +1087,7 @@
              id="text4366-7-98-7"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="fill:#ff0000;stroke-width:0.26458332px"
                y="336.4985"
@@ -1103,7 +1103,7 @@
              y="328.70718"
              x="279.21078"
              height="9.0714283"
-             width="39.479557"
+             width="34.918156"
              id="rect4370-0-1-21"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -1111,7 +1111,7 @@
              id="text4366-60-0-3"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#a5a5ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a5a5ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="fill:#a5a5ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
                y="336.4985"
@@ -1126,13 +1126,13 @@
           <rect
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="rect4370-2"
-             width="77.91349"
+             width="67.650337"
              height="9.0714283"
              x="279.21078"
              y="328.70718" />
           <text
              xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="280.45834"
              y="336.4985"
              id="text4366-6"
@@ -1150,13 +1150,13 @@
           <rect
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="rect4370"
-             width="32.531151"
+             width="28.539927"
              height="9.0714283"
              x="279.21078"
              y="328.70718" />
           <text
              xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="280.45834"
              y="336.4985"
              id="text4366"
@@ -1177,12 +1177,12 @@
            y="301.68219"
            x="-190.17311"
            height="181.43208"
-           width="209"
+           width="179.35091"
            id="rect4259-2-8"
            style="display:inline;opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:#492301;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffd5d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffd5d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="-186.49969"
            y="317.08267"
            id="text5644"
@@ -1194,7 +1194,7 @@
              style="font-size:14.11111069px;fill:#ffd5d5;stroke:none;stroke-width:0.26458332px">Roman Paris (Lutetia)</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffd0d0;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffd0d0;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="-185.75555"
            y="341.67148"
            id="text5528"
@@ -1297,7 +1297,7 @@
         </g>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="458.09998"
            y="426.35846"
            id="text4261"
@@ -1324,7 +1324,7 @@
            inkscape:connector-curvature="0" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="507.27759"
            y="446.64633"
            id="text4314"
@@ -1336,7 +1336,7 @@
              style="fill:#ffe6d5;stroke:none;stroke-width:0.26458332px">road</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="507.5618"
            y="460.68002"
            id="text4318"
@@ -1355,7 +1355,7 @@
            y="479.39896" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="507.35938"
            y="473.24304"
            id="text4322"
@@ -1367,7 +1367,7 @@
              style="fill:#ffe6d5;stroke:none;stroke-width:0.26458332px">gate</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="507.27756"
            y="502.67554"
            id="text4326"
@@ -1379,7 +1379,7 @@
              style="fill:#ffe6d5;stroke:none;stroke-width:0.26458332px">river</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="507.35938"
            y="487.82364"
            id="text4322-9"
@@ -2212,7 +2212,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="63.09528"
+             width="55.838139"
              id="rect4370-2-3-6-9"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2220,7 +2220,7 @@
              id="text4366-6-2-0-0"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -2236,7 +2236,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="64.353935"
+             width="57.499966"
              id="rect4370-2-3-6-9-5"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2244,7 +2244,7 @@
              id="text4366-6-2-0-0-3"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -2260,7 +2260,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="29.985798"
+             width="27.163576"
              id="rect4370-2-3-6-9-5-3"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2268,7 +2268,7 @@
              id="text4366-6-2-0-0-3-0"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -2292,7 +2292,7 @@
              id="text4366-6-2-0-0-3-0-5"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -2316,7 +2316,7 @@
              id="text4366-6-2-0-0-3-0-5-1"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -2332,7 +2332,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="31.805153"
+             width="28.579756"
              id="rect4370-2-3-6-9-3"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2340,7 +2340,7 @@
              id="text4366-6-2-0-0-1"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -2356,7 +2356,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="26.990894"
+             width="24.168673"
              id="rect4370-2-3-6-9-3-3"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2364,7 +2364,7 @@
              id="text4366-6-2-0-0-1-2"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -2380,7 +2380,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="22.419853"
+             width="20.40398"
              id="rect4370-2-3-6-9-2"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2388,7 +2388,7 @@
              id="text4366-6-2-0-0-6"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -2404,7 +2404,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="30.222836"
+             width="28.610138"
              id="rect4370-2-3-6-9-2-3"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2412,7 +2412,7 @@
              id="text4366-6-2-0-0-6-1"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -2428,7 +2428,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="25.730354"
+             width="24.117657"
              id="rect4370-2-3-6-9-2-3-0"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2436,7 +2436,7 @@
              id="text4366-6-2-0-0-6-1-3"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -2452,7 +2452,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="34.193192"
+             width="31.774143"
              id="rect4370-2-3-6-9-2-3-0-5"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2460,7 +2460,7 @@
              id="text4366-6-2-0-0-6-1-3-5"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -2476,7 +2476,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="41.258011"
+             width="36.82309"
              id="rect4370-2-3-6-9-2-3-0-5-8"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2484,7 +2484,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -2500,7 +2500,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="69.907372"
+             width="63.456577"
              id="rect4370-2-3-6-9-2-3-0-5-8-8"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2508,7 +2508,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-5"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -2524,7 +2524,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="31.278456"
+             width="28.456234"
              id="rect4370-2-3-6-9-2-3-0-5-8-8-5"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2532,7 +2532,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-5-9"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -2548,7 +2548,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="29.435019"
+             width="26.209621"
              id="rect4370-2-3-6-9-2-3-0-5-8-8-5-8"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2556,7 +2556,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-5-9-0"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -2572,7 +2572,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="29.007387"
+             width="25.78199"
              id="rect4370-2-3-6-9-2-3-0-5-8-8-5-8-7"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2580,7 +2580,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-5-9-0-0"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -2596,7 +2596,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="37.236397"
+             width="34.011002"
              id="rect4370-2-3-6-9-2-3-0-5-8-8-5-8-5"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2604,7 +2604,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-5-9-0-3"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -2628,7 +2628,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -2644,7 +2644,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="26.311899"
+             width="23.892851"
              id="rect4370-2-3-6-9-2-3-0-5-8-3"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2652,7 +2652,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-57"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -2668,7 +2668,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="71.883232"
+             width="63.01339"
              id="rect4370-2-3-6-9-1"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2676,7 +2676,7 @@
              id="text4366-6-2-0-0-17"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -2695,12 +2695,12 @@
            y="280.67395"
            x="-190.17308"
            height="199.41647"
-           width="226"
+           width="197.49126"
            id="rect4259-2-8-1"
            style="display:inline;opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:#492301;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#e3ffe3;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e3ffe3;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="-185.44138"
            y="296.9744"
            id="text5644-1"
@@ -2712,7 +2712,7 @@
              style="font-size:14.11111069px;fill:#e3ffe3;fill-opacity:1;stroke:none;stroke-width:0.26458332px">Early Middle Age (&lt;1000)</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#e3ffe3;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e3ffe3;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="-184.9048"
            y="318.73465"
            id="text5592"
@@ -2824,7 +2824,7 @@
         </g>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="663.14636"
            y="475.4942"
            id="text4261-8"
@@ -2851,7 +2851,7 @@
            inkscape:connector-curvature="0" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="712.32397"
            y="495.78207"
            id="text4314-6"
@@ -2863,7 +2863,7 @@
              style="fill:#ffe6d5;stroke:none;stroke-width:0.26458332px">road</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="712.60815"
            y="509.81577"
            id="text4318-0"
@@ -2875,7 +2875,7 @@
              style="fill:#ffe6d5;stroke:none;stroke-width:0.26458332px">wall</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="712.40576"
            y="522.37878"
            id="text4322-4"
@@ -2887,7 +2887,7 @@
              style="fill:#ffe6d5;stroke:none;stroke-width:0.26458332px">gate</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="712.32391"
            y="551.81128"
            id="text4326-0"
@@ -2899,7 +2899,7 @@
              style="fill:#ffe6d5;stroke:none;stroke-width:0.26458332px">river</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="712.40576"
            y="536.95935"
            id="text4322-9-7"
@@ -4023,7 +4023,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="63.372696"
+             width="55.712379"
              id="rect4370-2-3-6-9-50"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4031,7 +4031,7 @@
              id="text4366-6-2-0-0-35"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ffff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -4047,7 +4047,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="32.401012"
+             width="27.966091"
              id="rect4370-2-3-6-9-3-1"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4055,7 +4055,7 @@
              id="text4366-6-2-0-0-1-8"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ffff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -4071,7 +4071,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="35.35434"
+             width="32.935291"
              id="rect4370-2-3-6-9-3-3-1"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4079,7 +4079,7 @@
              id="text4366-6-2-0-0-1-2-7"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ffff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -4095,7 +4095,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="29.551876"
+             width="26.729654"
              id="rect4370-2-3-6-9-2-3-0-5-8-8-5-8-0"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4103,7 +4103,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-5-9-0-31"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ffff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -4119,7 +4119,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="30.547331"
+             width="28.531458"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4127,7 +4127,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ffff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -4143,7 +4143,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="30.547409"
+             width="28.934711"
              id="rect4370-2-3-6-9-5-3-9-3"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4151,7 +4151,7 @@
              id="text4366-6-2-0-0-3-0-3-0"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ffff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -4167,7 +4167,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="35.211796"
+             width="31.18005"
              id="rect4370-2-3-6-9-3-3-1-4"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4175,7 +4175,7 @@
              id="text4366-6-2-0-0-1-2-7-1"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ffff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -4191,7 +4191,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="27.835157"
+             width="25.819284"
              id="rect4370-2-3-6-9-3-3-1-4-7"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4199,7 +4199,7 @@
              id="text4366-6-2-0-0-1-2-7-1-4"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ffff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -4215,7 +4215,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="47.699455"
+             width="42.861359"
              id="rect4370-2-3-6-9-3-3-1-8"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4223,7 +4223,7 @@
              id="text4366-6-2-0-0-1-2-7-11"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ffff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -4247,7 +4247,7 @@
              id="text4366-6-2-0-0-1-2-7-11-8"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ffff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -4271,7 +4271,7 @@
              id="text4366-6-2-0-0-1-2-7-11-0"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ffff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -4287,7 +4287,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="37.920128"
+             width="34.291557"
              id="rect4370-2-3-6-9-3-3-1-4-4"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4295,7 +4295,7 @@
              id="text4366-6-2-0-0-1-2-7-1-6"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ffff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -4319,7 +4319,7 @@
              id="text4366-6-2-0-0-1-2-7-11-8-6"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ffff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -4335,7 +4335,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="57.83918"
+             width="52.194736"
              id="rect4370-2-3-6-9-5-3-8-8-5"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4343,7 +4343,7 @@
              id="text4366-6-2-0-0-3-0-5-1-4"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ffff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -4359,7 +4359,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="26.878862"
+             width="23.653465"
              id="rect4370-2-3-6-9-2-3-0-5-8-8-5-8-0-9"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4367,7 +4367,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-5-9-0-31-6"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ffff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -4383,7 +4383,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="44.82589"
+             width="41.600494"
              id="rect4370-2-3-6-9-2-3-0-5-8-8-5-8-0-7"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4391,7 +4391,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-5-9-0-31-4"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ffff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -4407,7 +4407,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="31.310318"
+             width="28.084921"
              id="rect4370-2-3-6-9-50-6"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4415,7 +4415,7 @@
              id="text4366-6-2-0-0-35-6"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ffff00;stroke-width:0.26458332px"
                y="336.4985"
@@ -4434,12 +4434,12 @@
            y="264.79898"
            x="-190.17311"
            height="166.99953"
-           width="209.00002"
+           width="181.63162"
            id="rect4259-2-8-1-8"
-           style="display:inline;opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:#492301;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:#492301;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffca;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffca;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="-185.44138"
            y="280.57025"
            id="text5644-1-4"
@@ -4451,7 +4451,7 @@
              style="font-size:14.11111069px;fill:#ffffca;fill-opacity:1;stroke:none;stroke-width:0.26458332px">Up to 1300</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffca;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffca;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="-184.99609"
            y="298.45758"
            id="text5624"
@@ -4549,7 +4549,7 @@
         </g>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="663.14636"
            y="447.44839"
            id="text4261-8-1"
@@ -4576,7 +4576,7 @@
            inkscape:connector-curvature="0" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="703.8573"
            y="467.73627"
            id="text4314-6-3"
@@ -4588,7 +4588,7 @@
              style="fill:#ffe6d5;stroke:none;stroke-width:0.26458332px">road</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="704.14148"
            y="481.76996"
            id="text4318-0-3"
@@ -4600,7 +4600,7 @@
              style="fill:#ffe6d5;stroke:none;stroke-width:0.26458332px">wall</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="703.93909"
            y="494.33295"
            id="text4322-4-0"
@@ -4612,7 +4612,7 @@
              style="fill:#ffe6d5;stroke:none;stroke-width:0.26458332px">gate</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="703.8573"
            y="555.51544"
            id="text4326-0-8"
@@ -4624,7 +4624,7 @@
              style="fill:#ffe6d5;stroke:none;stroke-width:0.26458332px">river</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="703.80994"
            y="508.91342"
            id="text4322-9-7-6"
@@ -4669,7 +4669,7 @@
            ry="9.921875" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="703.8056"
            y="530.08014"
            id="text4322-9-7-6-3"
@@ -6254,7 +6254,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="31.175322"
+             width="28.554688"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -6262,7 +6262,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ff00ff;stroke-width:0.26458332px"
                y="336.4985"
@@ -6278,7 +6278,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="38.041889"
+             width="33.808556"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-1"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -6286,7 +6286,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-8"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ff00ff;stroke-width:0.26458332px"
                y="336.4985"
@@ -6302,7 +6302,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="72.790504"
+             width="65.936539"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -6310,7 +6310,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ff00ff;stroke-width:0.26458332px"
                y="336.4985"
@@ -6326,7 +6326,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="28.661781"
+             width="25.436384"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-8"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -6334,7 +6334,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-3"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ff00ff;stroke-width:0.26458332px"
                y="336.4985"
@@ -6350,7 +6350,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="62.207165"
+             width="55.756371"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -6358,7 +6358,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-7"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ff00ff;stroke-width:0.26458332px"
                y="336.4985"
@@ -6374,7 +6374,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="59.703407"
+             width="53.655788"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-4"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -6382,7 +6382,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-72"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ff00ff;stroke-width:0.26458332px"
                y="336.4985"
@@ -6398,7 +6398,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="56.200706"
+             width="50.556263"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-4-4"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -6406,7 +6406,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-72-8"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ff00ff;stroke-width:0.26458332px"
                y="336.4985"
@@ -6422,7 +6422,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="61.176273"
+             width="54.725479"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-4-4-4"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -6430,7 +6430,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-72-8-5"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ff00ff;stroke-width:0.26458332px"
                y="336.4985"
@@ -6454,7 +6454,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-72-8-5-8"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ff00ff;stroke-width:0.26458332px"
                y="336.4985"
@@ -6478,7 +6478,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-72-8-5-8-3"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#ff00ff;stroke-width:0.26458332px"
                y="336.4985"
@@ -6502,7 +6502,7 @@
            style="display:inline;opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:#492301;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffe0ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffe0ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="-185.44138"
            y="370.52841"
            id="text5644-1-4-2"
@@ -6514,7 +6514,7 @@
              style="font-size:14.11111069px;fill:#ffe0ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px">Up to 1600</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffe0ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffe0ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="-184.75494"
            y="383.09412"
            id="text5655"
@@ -6572,7 +6572,7 @@
         </g>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="663.14636"
            y="426.28177"
            id="text4261-8-1-1"
@@ -6599,7 +6599,7 @@
            inkscape:connector-curvature="0" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="703.8573"
            y="446.56964"
            id="text4314-6-3-0"
@@ -6611,7 +6611,7 @@
              style="fill:#ffe6d5;stroke:none;stroke-width:0.26458332px">road</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="704.14154"
            y="460.60333"
            id="text4318-0-3-2"
@@ -6623,7 +6623,7 @@
              style="fill:#ffe6d5;stroke:none;stroke-width:0.26458332px">wall</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="703.93915"
            y="473.16632"
            id="text4322-4-0-4"
@@ -6635,7 +6635,7 @@
              style="fill:#ffe6d5;stroke:none;stroke-width:0.26458332px">gate</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="703.8573"
            y="555.51544"
            id="text4326-0-8-3"
@@ -6647,7 +6647,7 @@
              style="fill:#ffe6d5;stroke:none;stroke-width:0.26458332px">river</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="703.80994"
            y="487.7468"
            id="text4322-9-7-6-1"
@@ -6692,7 +6692,7 @@
            ry="9.921875" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="703.8056"
            y="508.91342"
            id="text4322-9-7-6-3-1"
@@ -6720,7 +6720,7 @@
            sodipodi:type="star" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="703.80994"
            y="536.52594"
            id="text4322-9-7-6-3-1-3"
@@ -7132,7 +7132,7 @@
            rx="10" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="663.14636"
            y="489.78165"
            id="text4261-8-1-1-0"
@@ -7159,7 +7159,7 @@
            inkscape:connector-curvature="0" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="703.8573"
            y="504.77786"
            id="text4314-6-3-0-6"
@@ -7171,7 +7171,7 @@
              style="fill:#ffe6d5;stroke:none;stroke-width:0.26458332px">road</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="704.14154"
            y="518.81158"
            id="text4318-0-3-2-7"
@@ -7183,7 +7183,7 @@
              style="fill:#ffe6d5;stroke:none;stroke-width:0.26458332px">wall</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="703.8573"
            y="555.51544"
            id="text4326-0-8-3-0"
@@ -7195,7 +7195,7 @@
              style="fill:#ffe6d5;stroke:none;stroke-width:0.26458332px">river</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="704.14154"
            y="535.32874"
            id="text4318-0-3-2-7-3"
@@ -7222,12 +7222,12 @@
            y="337.18448"
            x="-194.98395"
            height="138.13445"
-           width="199"
+           width="173.91231"
            id="rect4259-2-8-1-8-6-2"
-           style="display:inline;opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:#492301;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:#492301;stroke-width:0.99999982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#d7ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d7ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="-189.18315"
            y="354.12436"
            id="text5644-1-4-2-1"
@@ -7239,7 +7239,7 @@
              style="font-size:14.11111069px;fill:#d7ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px">1600 - 1790</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#d7ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d7ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="-188.17174"
            y="373.71048"
            id="text5692"
@@ -7300,7 +7300,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="74.630844"
+             width="64.082603"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7308,7 +7308,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-7-5"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ffff;stroke-width:0.26458332px"
                y="336.4985"
@@ -7324,7 +7324,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="56.787014"
+             width="48.23439"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7332,7 +7332,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-7-5-6"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ffff;stroke-width:0.26458332px"
                y="336.4985"
@@ -7348,7 +7348,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="50.004482"
+             width="44.302731"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7356,7 +7356,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-7-5-6-7"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ffff;stroke-width:0.26458332px"
                y="336.4985"
@@ -7380,7 +7380,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-7-5-6-7-3"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ffff;stroke-width:0.26458332px"
                y="336.4985"
@@ -7396,7 +7396,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="45.585281"
+             width="40.168617"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-7"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7404,7 +7404,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-7-5-6-7-3-8"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ffff;stroke-width:0.26458332px"
                y="336.4985"
@@ -7420,7 +7420,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="51.624371"
+             width="46.777882"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-7-9"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7428,7 +7428,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-7-5-6-7-3-8-6"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ffff;stroke-width:0.26458332px"
                y="336.4985"
@@ -7452,7 +7452,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-7-5-6-7-3-8-6-9"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ffff;stroke-width:0.26458332px"
                y="336.4985"
@@ -7468,7 +7468,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="89.068245"
+             width="78.234917"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-7-9-4-7"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7476,7 +7476,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-7-5-6-7-3-8-6-9-9"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ffff;stroke-width:0.26458332px"
                y="336.4985"
@@ -7492,7 +7492,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="58.127171"
+             width="52.140331"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-7-9-4-3"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7500,7 +7500,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-7-5-6-7-3-8-6-9-8"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ffff;stroke-width:0.26458332px"
                y="336.4985"
@@ -7516,7 +7516,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="96.827797"
+             width="85.139206"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-7-9-4-3-6"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7524,7 +7524,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-7-5-6-7-3-8-6-9-8-4"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ffff;stroke-width:0.26458332px"
                y="336.4985"
@@ -7540,7 +7540,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="52.091122"
+             width="47.244633"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-2"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7548,7 +7548,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-7-5-67"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ffff;stroke-width:0.26458332px"
                y="336.4985"
@@ -7564,7 +7564,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="40.986328"
+             width="37.565277"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-7-9-6"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7572,7 +7572,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-7-5-6-7-3-8-6-7"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ffff;stroke-width:0.26458332px"
                y="336.4985"
@@ -7588,7 +7588,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="37.748337"
+             width="34.042198"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-7-9-6-9"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7596,7 +7596,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-7-5-6-7-3-8-6-7-4"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ffff;stroke-width:0.26458332px"
                y="336.4985"
@@ -7620,7 +7620,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-7-5-6-7-3-8-6-7-4-9"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ffff;stroke-width:0.26458332px"
                y="336.4985"
@@ -7644,7 +7644,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-7-5-6-7-3-8-6-7-4-2"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ffff;stroke-width:0.26458332px"
                y="336.4985"
@@ -7660,7 +7660,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="46.574265"
+             width="40.302341"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-7-8"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7668,7 +7668,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-7-5-6-7-3-8-8"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ffff;stroke-width:0.26458332px"
                y="336.4985"
@@ -7684,7 +7684,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="55.893322"
+             width="48.195961"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-3"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7692,7 +7692,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-7-5-6-7-3-4"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ffff;stroke-width:0.26458332px"
                y="336.4985"
@@ -7708,7 +7708,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="60.750065"
+             width="56.188663"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-7-9-4-7-3"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7716,7 +7716,7 @@
              id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-7-5-6-7-3-8-6-9-9-1"
              y="336.4985"
              x="280.45834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;fill:#00ffff;stroke-width:0.26458332px"
                y="336.4985"
@@ -8244,12 +8244,12 @@
            y="377.12573"
            x="16.818195"
            height="154.93036"
-           width="219"
+           width="183.64915"
            id="rect4259-2-8-1-8-6-2-4"
            style="display:inline;opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:#492301;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffe3e3;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffe3e3;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="21.171955"
            y="392.82159"
            id="text5644-1-4-2-1-6"
@@ -8261,7 +8261,7 @@
              style="font-size:14.11111069px;fill:#ffe3e3;fill-opacity:1;stroke:none;stroke-width:0.26458332px">Until 1900</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffe3e3;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffe3e3;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="22.300594"
            y="409.65057"
            id="text5613"
@@ -8337,7 +8337,7 @@
            rx="10" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="663.14636"
            y="456.44418"
            id="text4261-8-1-1-0-4"
@@ -8364,7 +8364,7 @@
            inkscape:connector-curvature="0" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="700.15308"
            y="471.4404"
            id="text4314-6-3-0-6-0"
@@ -8376,7 +8376,7 @@
              style="fill:#ffe6d5;stroke:none;stroke-width:0.26458332px">old road</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="700.43732"
            y="503.4657"
            id="text4318-0-3-2-7-36"
@@ -8388,7 +8388,7 @@
              style="fill:#ffe6d5;stroke:none;stroke-width:0.26458332px">fortification</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="700.15308"
            y="555.51544"
            id="text4326-0-8-3-0-7"
@@ -8405,7 +8405,7 @@
            inkscape:connector-curvature="0" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="700.15308"
            y="487.3154"
            id="text4314-6-3-0-6-0-2"
@@ -8424,7 +8424,7 @@
            y="513.8114" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="700.43732"
            y="524.63245"
            id="text4318-0-3-2-7-36-4"
@@ -8441,7 +8441,7 @@
            inkscape:connector-curvature="0" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="700.15308"
            y="542.81537"
            id="text4326-0-8-3-0-7-1"
@@ -8460,7 +8460,7 @@
            y="331.48386"
            x="279.21078"
            height="6.7866888"
-           width="32.787605"
+           width="27.656031"
            id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-3-8"
            style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <text
@@ -8468,7 +8468,7 @@
            id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-7-5-6-7-3-4-8"
            y="336.4985"
            x="280.45834"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
              style="font-size:5.29166651px;fill:#ff0000;stroke-width:0.26458332px"
              y="336.4985"
@@ -8484,7 +8484,7 @@
            y="331.48386"
            x="279.21078"
            height="6.7866888"
-           width="44.992916"
+           width="38.720993"
            id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-3-8-9"
            style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <text
@@ -8492,7 +8492,7 @@
            id="text4366-6-2-0-0-6-1-3-5-0-6-3-0-0-7-7-5-6-7-3-4-8-4"
            y="336.4985"
            x="280.45834"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;g-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Ubuntu, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
              style="font-size:5.29166651px;fill:#ff0000;stroke-width:0.26458332px"
              y="336.4985"
