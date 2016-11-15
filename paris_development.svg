@@ -516,10 +516,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="1108.6055"
-     inkscape:cy="940.24541"
+     inkscape:cx="1701.6906"
+     inkscape:cy="964.07762"
      inkscape:document-units="mm"
-     inkscape:current-layer="Roman"
+     inkscape:current-layer="sublabels"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1151"
@@ -552,13 +552,13 @@
     <image
        sodipodi:absref="/home/meschede/meschede/projects/paris_map/paris_map_small.png"
        xlink:href="paris_map_small.png"
-       style="display:inline"
-       width="840.74011"
-       height="593.72498"
-       preserveAspectRatio="none"
-       id="image23042"
+       y="-51.926319"
        x="-210.3551"
-       y="-51.926319" />
+       id="image23042"
+       preserveAspectRatio="none"
+       height="593.72498"
+       width="840.74011"
+       style="display:inline" />
     <g
        transform="translate(-308.42323,-11.39902)"
        style="display:inline"
@@ -758,7 +758,7 @@
           <rect
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="rect4370-0"
-             width="39.126774"
+             width="42.956932"
              height="9.0714283"
              x="279.21078"
              y="328.70718" />
@@ -782,7 +782,7 @@
           <rect
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="rect4370-0-1"
-             width="106.40654"
+             width="112.25257"
              height="9.0714283"
              x="279.21078"
              y="328.70718" />
@@ -807,7 +807,7 @@
              y="328.70718"
              x="279.21078"
              height="9.0714283"
-             width="99.791954"
+             width="107.0491"
              id="rect4370-0-7"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -831,7 +831,7 @@
              y="328.70718"
              x="279.21078"
              height="9.0714283"
-             width="116.98988"
+             width="123.64227"
              id="rect4370-0-1-2"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -855,7 +855,7 @@
              y="328.70718"
              x="279.21078"
              height="9.0714283"
-             width="93.177383"
+             width="102.85358"
              id="rect4370-0-1-2-5"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -879,7 +879,7 @@
              y="328.70718"
              x="279.21078"
              height="9.0714283"
-             width="78.146576"
+             width="80.162453"
              id="rect4370-7"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -903,7 +903,7 @@
              y="328.70718"
              x="279.21078"
              height="9.0714283"
-             width="67.484566"
+             width="69.702026"
              id="rect4370-7-5-5"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -927,7 +927,7 @@
              y="328.70718"
              x="279.21078"
              height="9.0714283"
-             width="66.488205"
+             width="69.915192"
              id="rect4370-7-5-5-6-2"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -950,7 +950,7 @@
           <rect
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="rect4370-2-3-6"
-             width="65.35054"
+             width="67.971176"
              height="9.5633707"
              x="279.21078"
              y="328.70718" />
@@ -965,7 +965,7 @@
                sodipodi:role="line"
                x="280.45834"
                y="336.4985"
-               style="fill:#ff0000;stroke-width:0.26458332px">'cardo maximus'</tspan></text>
+               style="fill:#ff0000;stroke-width:0.26458332px">cardo maximus</tspan></text>
         </g>
         <g
            transform="translate(-85.75958,116.31932)"
@@ -975,7 +975,7 @@
              y="328.70718"
              x="279.21078"
              height="9.0714283"
-             width="32.710754"
+             width="35.33139"
              id="rect4370-7-5"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -999,7 +999,7 @@
              y="328.70718"
              x="279.21082"
              height="9.0714283"
-             width="53.905918"
+             width="57.534489"
              id="rect4370-7-5-5-6-2-2-0"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -1023,7 +1023,7 @@
              y="328.70718"
              x="279.21078"
              height="9.0714283"
-             width="66.921257"
+             width="69.945068"
              id="rect4370-7-5-5-6"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -1047,7 +1047,7 @@
              y="328.70718"
              x="279.21078"
              height="9.0714283"
-             width="21.722586"
+             width="24.34322"
              id="rect4370-7-2"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -1071,7 +1071,7 @@
              y="328.70718"
              x="279.21078"
              height="9.0714283"
-             width="30.572601"
+             width="31.983713"
              id="rect4370-7-2-1"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -1095,7 +1095,7 @@
              y="328.70718"
              x="279.21078"
              height="9.0714283"
-             width="36.858921"
+             width="39.479557"
              id="rect4370-0-1-21"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -1118,7 +1118,7 @@
           <rect
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="rect4370-2"
-             width="71.059525"
+             width="77.91349"
              height="9.0714283"
              x="279.21078"
              y="328.70718" />
@@ -1142,7 +1142,7 @@
           <rect
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="rect4370"
-             width="29.104166"
+             width="32.531151"
              height="9.0714283"
              x="279.21078"
              y="328.70718" />
@@ -1167,11 +1167,11 @@
            rx="9.999999"
            ry="10"
            y="301.68219"
-           x="-190.1731"
+           x="-190.17311"
            height="181.43208"
-           width="199"
+           width="201.00002"
            id="rect4259-2-8"
-           style="display:inline;opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:#492301;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:#492301;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffd5d5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2204,7 +2204,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="53.822266"
+             width="63.09528"
              id="rect4370-2-3-6-9"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2228,7 +2228,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="55.658764"
+             width="64.353935"
              id="rect4370-2-3-6-9-5"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2252,7 +2252,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="25.85203"
+             width="29.985798"
              id="rect4370-2-3-6-9-5-3"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2276,7 +2276,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="21.694292"
+             width="24.830254"
              id="rect4370-2-3-6-9-5-3-8"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2300,7 +2300,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="49.286556"
+             width="57.696636"
              id="rect4370-2-3-6-9-5-3-8-8"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2324,7 +2324,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="27.269438"
+             width="31.805153"
              id="rect4370-2-3-6-9-3"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2348,7 +2348,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="23.059942"
+             width="26.990894"
              id="rect4370-2-3-6-9-3-3"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2372,7 +2372,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="19.426434"
+             width="22.419853"
              id="rect4370-2-3-6-9-2"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2396,7 +2396,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="25.946524"
+             width="30.222836"
              id="rect4370-2-3-6-9-2-3"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2420,7 +2420,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="22.166761"
+             width="25.730354"
              id="rect4370-2-3-6-9-2-3-0"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2444,7 +2444,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="29.63179"
+             width="34.193192"
              id="rect4370-2-3-6-9-2-3-0-5"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2468,7 +2468,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="34.843544"
+             width="41.258011"
              id="rect4370-2-3-6-9-2-3-0-5-8"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2492,7 +2492,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="60.356937"
+             width="69.907372"
              id="rect4370-2-3-6-9-2-3-0-5-8-8"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2516,7 +2516,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="26.717056"
+             width="31.278456"
              id="rect4370-2-3-6-9-2-3-0-5-8-8-5"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2540,7 +2540,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="25.016163"
+             width="29.435019"
              id="rect4370-2-3-6-9-2-3-0-5-8-8-5-8"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2564,7 +2564,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="25.016163"
+             width="29.007387"
              id="rect4370-2-3-6-9-2-3-0-5-8-8-5-8-7"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2588,7 +2588,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="31.819735"
+             width="37.236397"
              id="rect4370-2-3-6-9-2-3-0-5-8-8-5-8-5"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2612,7 +2612,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="23.099421"
+             width="26.805557"
              id="rect4370-2-3-6-9-2-3-0-5-8-4"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2636,7 +2636,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="22.748306"
+             width="26.311899"
              id="rect4370-2-3-6-9-2-3-0-5-8-3"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2660,7 +2660,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="61.098309"
+             width="71.883232"
              id="rect4370-2-3-6-9-1"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -2687,7 +2687,7 @@
            y="280.67395"
            x="-190.1731"
            height="199.41647"
-           width="215.99998"
+           width="217"
            id="rect4259-2-8-1"
            style="display:inline;opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:#492301;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <text
@@ -4015,7 +4015,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="53.822266"
+             width="63.372696"
              id="rect4370-2-3-6-9-50"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4039,7 +4039,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="27.269438"
+             width="32.401012"
              id="rect4370-2-3-6-9-3-1"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4063,7 +4063,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="31.078028"
+             width="35.35434"
              id="rect4370-2-3-6-9-3-3-1"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4087,7 +4087,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="25.016163"
+             width="29.551876"
              id="rect4370-2-3-6-9-2-3-0-5-8-8-5-8-0"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4111,7 +4111,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="26.841194"
+             width="30.547331"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4135,7 +4135,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="27.322012"
+             width="30.547409"
              id="rect4370-2-3-6-9-5-3-9-3"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4159,7 +4159,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="31.078028"
+             width="35.211796"
              id="rect4370-2-3-6-9-3-3-1-4"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4183,7 +4183,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="24.129021"
+             width="27.835157"
              id="rect4370-2-3-6-9-3-3-1-4-7"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4207,7 +4207,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="40.999901"
+             width="47.699455"
              id="rect4370-2-3-6-9-3-3-1-8"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4231,7 +4231,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="16.411104"
+             width="18.264174"
              id="rect4370-2-3-6-9-3-3-1-8-0"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4255,7 +4255,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="26.567347"
+             width="29.275679"
              id="rect4370-2-3-6-9-3-3-1-8-4"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4279,7 +4279,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="31.078028"
+             width="37.920128"
              id="rect4370-2-3-6-9-3-3-1-4-4"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4303,7 +4303,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="20.954685"
+             width="24.090647"
              id="rect4370-2-3-6-9-3-3-1-8-0-7"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4327,7 +4327,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="49.286556"
+             width="57.83918"
              id="rect4370-2-3-6-9-5-3-8-8-5"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4351,7 +4351,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="23.315269"
+             width="26.878862"
              id="rect4370-2-3-6-9-2-3-0-5-8-8-5-8-0-9"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4375,7 +4375,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="39.181446"
+             width="44.82589"
              id="rect4370-2-3-6-9-2-3-0-5-8-8-5-8-0-7"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4399,7 +4399,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="26.891462"
+             width="31.310318"
              id="rect4370-2-3-6-9-50-6"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -4426,7 +4426,7 @@
            y="264.79898"
            x="-190.17311"
            height="166.99953"
-           width="193"
+           width="195"
            id="rect4259-2-8-1-8"
            style="display:inline;opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:#492301;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <text
@@ -6246,7 +6246,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="26.841194"
+             width="31.175322"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -6270,7 +6270,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="32.699825"
+             width="38.041889"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-1"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -6294,7 +6294,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="63.315899"
+             width="72.790504"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -6318,7 +6318,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="25.234797"
+             width="28.661781"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-8"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -6342,7 +6342,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="52.732563"
+             width="62.207165"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -6366,7 +6366,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="50.723152"
+             width="59.703407"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-4"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -6390,7 +6390,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="48.360802"
+             width="56.200706"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-4-4"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -6414,7 +6414,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="51.701672"
+             width="61.176273"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-4-4-4"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -6438,7 +6438,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="43.008221"
+             width="50.265362"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-4-4-4-1"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -6462,7 +6462,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="16.738876"
+             width="18.754749"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-4-4-4-1-9"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -6484,14 +6484,14 @@
          id="g5648-5-9-8"
          style="display:inline">
         <rect
-           rx="10"
+           rx="9.999999"
            ry="10"
            y="354.75714"
            x="-190.17311"
            height="68.940796"
-           width="181"
+           width="183"
            id="rect4259-2-8-1-8-6"
-           style="display:inline;opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:#492301;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:#492301;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffe0ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -7212,11 +7212,11 @@
            rx="10.000002"
            ry="10"
            y="337.18448"
-           x="-194.98396"
+           x="-194.98395"
            height="138.13445"
-           width="192"
+           width="193"
            id="rect4259-2-8-1-8-6-2"
-           style="display:inline;opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:#492301;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:#492301;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#d7ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -7292,7 +7292,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="62.086998"
+             width="73.205406"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7340,7 +7340,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="42.041782"
+             width="48.190197"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7364,7 +7364,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="33.756428"
+             width="38.392937"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7388,7 +7388,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="38.56728"
+             width="43.304581"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-7"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7412,7 +7412,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="44.425911"
+             width="51.624371"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-7-9"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7436,7 +7436,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="64.345642"
+             width="72.812309"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-7-9-4"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7460,7 +7460,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="76.907303"
+             width="87.455544"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-7-9-4-7"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7484,7 +7484,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="50.714897"
+             width="58.127171"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-7-9-4-3"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7508,7 +7508,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="83.856316"
+             width="96.827797"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-7-9-4-3-6"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7532,7 +7532,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="45.24902"
+             width="52.091122"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-2"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7556,7 +7556,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="35.543472"
+             width="40.986328"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-7-9-6"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7580,7 +7580,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="32.708652"
+             width="37.748337"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-7-9-6-9"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7604,7 +7604,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="18.008829"
+             width="20.574617"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-7-9-6-9-4"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7652,7 +7652,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="39.035"
+             width="45.148827"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-7-8"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7676,7 +7676,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="45.649921"
+             width="53.612621"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-3"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -7700,7 +7700,7 @@
              y="331.48386"
              x="279.21078"
              height="6.7866888"
-             width="52.585777"
+             width="60.750065"
              id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-7-9-4-7-3"
              style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
@@ -8236,9 +8236,9 @@
            y="377.12573"
            x="16.818195"
            height="154.93036"
-           width="199"
+           width="204"
            id="rect4259-2-8-1-8-6-2-4"
-           style="display:inline;opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:#492301;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:#492301;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffe3e3;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -8452,7 +8452,7 @@
            y="331.48386"
            x="279.21078"
            height="6.7866888"
-           width="26.373137"
+           width="31.504711"
            id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-3-8"
            style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <text
@@ -8476,7 +8476,7 @@
            y="331.48386"
            x="279.21078"
            height="6.7866888"
-           width="37.865726"
+           width="42.997303"
            id="rect4370-2-3-6-9-2-3-0-5-8-4-9-5-3-3-2-4-0-4-8-3-8-9"
            style="opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <text
@@ -8651,28 +8651,28 @@
          sodipodi:role="line">Main Sources:</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.0px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#9f4c00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="99.316811"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#9f4c00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="88.027916"
        y="580.37329"
        id="text5646"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5650"
-         x="99.316811"
+         x="88.027916"
          y="580.37329"
-         style="fill:#9f4c00;stroke:none;stroke-width:0.26458332px;fill-opacity:1;">openstreetmap.org</tspan></text>
+         style="fill:#9f4c00;fill-opacity:1;stroke:none;stroke-width:0.26458332px">openstreetmap.org</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.0px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#9f4c00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="181.29007"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#9f4c00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="175.64563"
        y="580.37329"
        id="text5652"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5654"
-         x="181.29007"
+         x="175.64563"
          y="580.37329"
-         style="fill:#9f4c00;stroke-width:0.26458332px;fill-opacity:1;">paris-atlas-historique.fr</tspan></text>
+         style="fill:#9f4c00;fill-opacity:1;stroke-width:0.26458332px">paris-atlas-historique.fr</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.0px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#9f4c00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
