@@ -524,10 +524,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="2031.5946"
+     inkscape:cx="1803.0232"
      inkscape:cy="1009.0125"
      inkscape:document-units="mm"
-     inkscape:current-layer="Roman"
+     inkscape:current-layer="MA1600"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1151"
@@ -4686,7 +4686,7 @@
      inkscape:groupmode="layer"
      id="MA1600"
      inkscape:label="MA1600"
-     style="display:none"
+     style="display:inline"
      transform="translate(210.3551,51.926323)">
     <g
        transform="translate(-1.1141768e-6,-1.0037546e-5)"
@@ -6497,7 +6497,7 @@
            y="354.75714"
            x="-190.17311"
            height="68.940796"
-           width="193"
+           width="172.03493"
            id="rect4259-2-8-1-8-6"
            style="display:inline;opacity:1;fill:#000000;fill-opacity:0.70588235;stroke:#492301;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <text
