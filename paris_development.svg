@@ -523,9 +523,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="1773.8425"
-     inkscape:cy="914.0773"
+     inkscape:zoom="0.35"
+     inkscape:cx="2031.5946"
+     inkscape:cy="1009.0125"
      inkscape:document-units="mm"
      inkscape:current-layer="Roman"
      showgrid="false"
@@ -576,7 +576,7 @@
      inkscape:groupmode="layer"
      id="Roman"
      inkscape:label="Roman"
-     style="display:inline"
+     style="display:none"
      transform="translate(210.3551,51.926323)">
     <g
        id="g5991">
