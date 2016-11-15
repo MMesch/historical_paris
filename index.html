@@ -1,10 +1,28 @@
 <html> 
 <head> 
-    <title>Historical Map of Paris</title> 			
+    <title>Historical Map of Paris</title>
+    <style>
+    div
+    {
+        width:80%;
+        height:80%;
+        display:block;
+        position:absolute;
+        left:10%;
+        border:1px green;
+
+    }
+    body
+    {
+        background-color:black;
+    }
+    </style>
 </head> 
 
 <body>
-  <object type="image/svg+xml" data="paris_development.svg">
-        Your browser does not support SVG
-  </object>
+  <div>
+     <object type="image/svg+xml" data="paris_development.svg">
+          Your browser does not support SVG
+      </object>
+  </div>
 </body>
