@@ -449,8 +449,8 @@
 	width  = parseFloat(root.getAttribute('width'));
 	root.setAttribute('viewBox', '0 0 ' + width + ' ' + height);
 
-	//root.setAttribute('width', '100%');
-	//root.setAttribute('height', '100%');
+	root.setAttribute('width', '100%');
+	root.setAttribute('height', '100%');
 
 	bgcolor = 'black';
 	var newAttribute = 'background-color:' + bgcolor + ';';
